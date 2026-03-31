@@ -6284,15 +6284,15 @@
 }   
 
 .wpgmza-tile-server-preview-container.preview-failed[data-failed-fallback="openfreemap-liberty"]:before{
-    background-image: url('/wp-content/plugins/wp-google-maps/images/openfreemap-liberty.png');
+    background-image: url('/test-website-euringer//wp-content/plugins/wp-google-maps/images/openfreemap-liberty.png');
 }
 
 .wpgmza-tile-server-preview-container.preview-failed[data-failed-fallback="openfreemap-bright"]:before{
-    background-image: url('/wp-content/plugins/wp-google-maps/images/openfreemap-bright.png');
+    background-image: url('/test-website-euringer//wp-content/plugins/wp-google-maps/images/openfreemap-bright.png');
 }
 
 .wpgmza-tile-server-preview-container.preview-failed[data-failed-fallback="openfreemap-positron"]:before {
-    background-image: url('/wp-content/plugins/wp-google-maps/images/openfreemap-positron.png');
+    background-image: url('/test-website-euringer//wp-content/plugins/wp-google-maps/images/openfreemap-positron.png');
 }
 
 /* Map Engine Switch Toolbar */
